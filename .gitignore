@@ -1,0 +1,14 @@
+﻿# 数据库文件（二进制，不进 Git）
+*.duckdb
+*.duckdb.wal
+
+# Power BI 文件（二进制且可能很大，第 4 周再讨论怎么处理）
+*.pbix
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# 大数据文件
+data/*.csv
+data/*.xlsx
