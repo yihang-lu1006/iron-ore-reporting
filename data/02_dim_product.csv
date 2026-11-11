@@ -1,0 +1,8 @@
+﻿product_id,product_name,product_name_en,product_type,fe_content,sio2,al2o3,p_content,s_content
+1,PB粉,Pilbara Blend Fines,粉矿,61.5,4.2,2.35,0.1,0.03
+2,PB块,Pilbara Blend Lump,块矿,62.5,3.9,2.1,0.095,0.028
+3,纽曼粉,Newman Fines,粉矿,62.8,4.05,1.95,0.075,0.02
+4,纽曼块,Newman Lump,块矿,65.0,3.2,1.6,0.065,0.018
+5,金布巴粉,Jimblebar Fines,粉矿,61.0,4.5,2.55,0.105,0.035
+6,麦克粉,MAC Fines,粉矿,60.8,4.65,2.7,0.11,0.038
+7,杨迪粉,Yandi Fines,粉矿,58.0,5.1,1.45,0.045,0.02
