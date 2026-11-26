@@ -21,8 +21,8 @@ __pycache__/
 # data/*.csv    合成数据，别人要跑 sql/ 里的查询就需要它
 # data/*.xlsx   那份 11 类问题的脏台账，是清洗故事的起点
 
-# 备份文件
-*.bak
+# 备份文件（*.bak / *.bak2 / *.bak3 …）
+*.bak*
 
 # 旧版本，已被 (version 1) 取代
 excel/sales_clean_2026.xlsx
